@@ -1,0 +1,23 @@
+USER:
+-Can do command line
+-User may use spreadsheet or CSV file
+--Have blank form for user to input data
+
+INPUT:
+-Have option to put in their own parameters?
+-Have automated inputs that can be put?
+
+PARAMETERS:
+
+
+OUTPUT:
+-Have output be results; do not display equations
+-Display in bar graph or table
+--Bar graph: y-axis: biomass; x-axis: organism
+--Line graph if we want to do a before/after comparison
+
+
+NOTES:
+-Input: maybe file? 
+--maybe use SPLIT methods to read different columns
+--or have user enter different values for parameters
